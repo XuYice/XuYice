@@ -1,7 +1,17 @@
 <h2 align="left">🔆 Sobre mim:</h2>
+<div align="center">
+<p> 🔭 Estou trabalhando como programador FullStack júnior </p>
+<p> 📚 Estou atualmente fazendo faculdade de Ciência da Computação </p>
+</div>
 
-- 🔭 Estou trabalhando como programador FullStack júnior
-- 📚 Estou atualmente fazendo faculdade de Ciência da Computação
+<div align="center">
+  <a href="https://www.linkedin.com/in/yice-xu/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/enzo__xu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram logo"  />
+  </a>
+</div>
 
 <h2 align="left">🖥️ Tech Stack:</h2>
 
@@ -38,26 +48,13 @@
 <h2 align="left">🖥📚 GitHub Stats:</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XuYice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XuYice&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=XuYice&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=XuYice&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=XuYice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XuYice&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/XuYice/XuYice/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">🖥️ Redes Sociais:</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/yice-xu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/enzo__xu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
