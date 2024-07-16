@@ -1,4 +1,4 @@
-<h2 align="left">🔆 Sobre mim:</h2>
+<h2 align="center">🔆 Sobre mim:</h2>
 <div align="center">
 <p> 🔭 Estou trabalhando como programador FullStack júnior </p>
 <p> 📚 Estou atualmente fazendo faculdade de Ciência da Computação </p>
@@ -13,11 +13,9 @@
   </a>
 </div>
 
-<h2 align="left">🖥️ Tech Stack:</h2>
-
-###
-
-<div align="left">
+<h2 align="center">🖥️ Tech Stack:</h2>
+</br>
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
@@ -43,18 +41,17 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="40" alt="jenkins logo"  />
 </div>
 
-###
-
-<h2 align="left">🖥📚 GitHub Stats:</h2>
-
+<h2 align="center">📚 GitHub Stats:</h2>
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=XuYice&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     <img src="https://github-readme-stats.vercel.app/api?username=XuYice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XuYice&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<div align="center">
+  <h2>🐍 Meu Contribuição🐍 </h2>
+  <img src="https://raw.githubusercontent.com/XuYice/XuYice/output/snake.svg" alt="Snake animation" />
+</div>
 
-<img src="https://raw.githubusercontent.com/XuYice/XuYice/output/snake.svg" alt="Snake animation" />
 
-###
+
