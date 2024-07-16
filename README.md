@@ -11,6 +11,7 @@
   <a href="https://www.instagram.com/enzo__xu/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram logo"  />
   </a>
+    <br/><br/><br/>
 </div>
 
 <h2 align="center">🖥️ Tech Stack:</h2>
@@ -39,6 +40,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="40" alt="jenkins logo"  />
+    <br/><br/><br/>
+</div>
+
+<div align="center">
+  <h2>🐍 Meu Contribuição 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/XuYice/XuYice/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 <h2 align="center">📚 GitHub Stats:</h2>
@@ -48,17 +58,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XuYice&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <h2>🐍 Meu Contribuição🐍 </h2>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/XuYice/XuYice/output/snake.svg" />
-</div>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/XuYice/XuYice/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 
