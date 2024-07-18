@@ -43,14 +43,6 @@
     <br/><br/><br/>
 </div>
 
-<div align="center">
-  <h2>🐍 Meu Contribuição 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/XuYice/XuYice/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <h2 align="center">📚 GitHub Stats:</h2>
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=XuYice&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
