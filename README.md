@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="34" alt="laravel" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="34" alt="csharp" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="34" alt="mysql" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" height="34" alt="graphql" />
   <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=white&style=for-the-badge" height="34" alt="cypress" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" height="34" alt="selenium" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="34" alt="git" />
