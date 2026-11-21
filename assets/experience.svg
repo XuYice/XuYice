@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+  </defs>
+  <style>
+    .m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+    .dot{animation:p 2s ease-in-out infinite}
+    @keyframes p{0%,100%{opacity:1}50%{opacity:.25}}
+  </style>
+  <rect x="1" y="1" width="898" height="94" rx="14" fill="#0f1420" stroke="#38bdf8" stroke-opacity=".3"/>
+  <rect x="1" y="1" width="6" height="94" rx="3" fill="url(#g)"/>
+  <circle class="dot" cx="38" cy="30" r="5" fill="#7ee0a8" style="animation:none;fill:#7a8aa8"/>
+  <text x="56" y="35" class="m" font-size="18" font-weight="700" fill="#e2ecfc">Full Stack Developer</text>
+  <text x="56" y="62" class="m" font-size="14" fill="#38bdf8">Grupo Wolf 360</text>
+  <text x="56" y="82" class="m" font-size="13" fill="#7a8aa8">Mobile &amp; ERP  |  React Native, TypeScript, Laravel</text>
+  <text x="880" y="35" class="m" font-size="14" fill="#7a8aa8" text-anchor="end">Aug 2025 - Nov 2026</text>
+
+  <rect x="1" y="113" width="898" height="94" rx="14" fill="#0f1420" stroke="#818cf8" stroke-opacity=".3"/>
+  <rect x="1" y="113" width="6" height="94" rx="3" fill="url(#g)"/>
+  <circle cx="38" cy="142" r="5" fill="#7a8aa8"/>
+  <text x="56" y="147" class="m" font-size="18" font-weight="700" fill="#e2ecfc">Full Stack Developer</text>
+  <text x="56" y="174" class="m" font-size="14" fill="#818cf8">Testing Company</text>
+  <text x="56" y="194" class="m" font-size="13" fill="#7a8aa8">QA Automation &amp; Web  |  Cypress, Selenium</text>
+  <text x="880" y="147" class="m" font-size="14" fill="#7a8aa8" text-anchor="end">Mar 2023 - Oct 2024</text>
+</svg>
