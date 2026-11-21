@@ -6,7 +6,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Grupo_Wolf_360-38bdf8?style=for-the-badge&labelColor=0f1420" alt="company" />
 <img src="https://img.shields.io/badge/Computer_Science-818cf8?style=for-the-badge&labelColor=0f1420" alt="degree" />
 <img src="https://komarev.com/ghpvc/?username=XuYice&style=for-the-badge&color=38bdf8&labelColor=0f1420&label=PROFILE+VIEWS" alt="views" />
 
