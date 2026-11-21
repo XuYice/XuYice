@@ -34,6 +34,7 @@ Studying Computer Science, combining a strong test-driven mindset (Cypress/Selen
   <img src="https://img.shields.io/badge/TypeScript-0f1420?logo=typescript&logoColor=38bdf8&style=for-the-badge" alt="typescript" />
   <img src="https://img.shields.io/badge/JavaScript-0f1420?logo=javascript&logoColor=38bdf8&style=for-the-badge" alt="javascript" />
   <img src="https://img.shields.io/badge/PHP-0f1420?logo=php&logoColor=38bdf8&style=for-the-badge" alt="php" />
+  <img src="https://img.shields.io/badge/Python-0f1420?logo=python&logoColor=38bdf8&style=for-the-badge" alt="python" />
   <img src="https://img.shields.io/badge/Laravel-0f1420?logo=laravel&logoColor=38bdf8&style=for-the-badge" alt="laravel" />
   <img src="https://img.shields.io/badge/C%23-0f1420?logo=csharp&logoColor=38bdf8&style=for-the-badge" alt="csharp" />
   <img src="https://img.shields.io/badge/MySQL-0f1420?logo=mysql&logoColor=38bdf8&style=for-the-badge" alt="mysql" />
