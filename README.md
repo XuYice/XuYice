@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="hi, I'm Yice" width="100%" />
+<img src="assets/banner-blue.svg" alt="hi, I'm Yice" width="100%" />
 
 <a href="https://github.com/XuYice"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=React+Native+%26+TypeScript;Laravel+%2F+PHP+for+ERP+systems;Test-driven+mindset+%28Cypress+%2F+Selenium%29;LLM+integration+%26+AI+tooling" alt="typing" /></a>
 
