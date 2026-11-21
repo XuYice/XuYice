@@ -1,54 +1,66 @@
-<h1 align="center">Hi, I'm Yice Xu 👋</h1>
+<div align="center">
 
-<p align="center">
-  Software engineer with 2 years of experience building production-grade <b>Laravel/PHP</b> applications for ERP and <b>React Native</b> mobile applications.
-</p>
-<p align="center">
-  I currently work at <b>Grupo Wolf 360</b>, engineering scalable mobile apps with <b>React Native &amp; TypeScript</b>, alongside a comprehensive ERP system built with <b>PHP/Laravel</b>.
-</p>
-<p align="center">
-  📚 Currently pursuing a Computer Science degree, combining a strong test-driven mindset (Cypress/Selenium) with hands-on experience in LLM integration.
-</p>
+<img src="assets/banner.svg" alt="hi, I'm Yice" width="100%" />
+
+<a href="https://github.com/XuYice"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=FF7AC6&center=true&vCenter=true&width=640&lines=React+Native+%26+TypeScript;Laravel+%2F+PHP+for+ERP+systems;Test-driven+mindset+%28Cypress+%2F+Selenium%29;LLM+integration+%26+AI+tooling" alt="typing" /></a>
 
 <br/>
+
+<img src="https://img.shields.io/badge/Grupo_Wolf_360-ff7ac6?style=for-the-badge&labelColor=14101f" alt="company" />
+<img src="https://img.shields.io/badge/Computer_Science-b48cff?style=for-the-badge&labelColor=14101f" alt="degree" />
+<img src="https://komarev.com/ghpvc/?username=XuYice&style=for-the-badge&color=ff7ac6&labelColor=14101f&label=PROFILE+VIEWS" alt="views" />
+
+</div>
+
+<br/>
+
+## 👩‍💻 About
+
+Software engineer with 2 years of experience building production-grade **Laravel/PHP** applications for ERP and **React Native** mobile apps.
+I currently work at **Grupo Wolf 360**, engineering scalable mobile apps with **React Native & TypeScript**, alongside a comprehensive ERP system built with **PHP/Laravel**.
+Studying Computer Science, combining a strong test-driven mindset (Cypress/Selenium) with hands-on experience in LLM integration.
 
 ## 🧑‍💼 Experience
 
 | Position             | Company         | Field                   | Period              |
 | -------------------- | --------------- | ----------------------- | ------------------- |
-| Full Stack Developer | Grupo Wolf 360  | Mobile &amp; ERP        | Aug 2025 — Present  |
-| Full Stack Developer | Testing Company | QA Automation &amp; Web | Mar 2023 — Oct 2024 |
+| Full Stack Developer | Grupo Wolf 360  | Mobile & ERP            | Aug 2025 — Present  |
+| Full Stack Developer | Testing Company | QA Automation & Web     | Mar 2023 — Oct 2024 |
 
-<br/>
+## 🛠️ Stack
 
-## 🛠️ Technologies &amp; Tools
+<p>
+  <img src="https://img.shields.io/badge/React-14101f?logo=react&logoColor=ff7ac6&style=for-the-badge" alt="react" />
+  <img src="https://img.shields.io/badge/React_Native-14101f?logo=react&logoColor=ff7ac6&style=for-the-badge" alt="react native" />
+  <img src="https://img.shields.io/badge/TypeScript-14101f?logo=typescript&logoColor=ff7ac6&style=for-the-badge" alt="typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-14101f?logo=javascript&logoColor=ff7ac6&style=for-the-badge" alt="javascript" />
+  <img src="https://img.shields.io/badge/PHP-14101f?logo=php&logoColor=ff7ac6&style=for-the-badge" alt="php" />
+  <img src="https://img.shields.io/badge/Laravel-14101f?logo=laravel&logoColor=ff7ac6&style=for-the-badge" alt="laravel" />
+  <img src="https://img.shields.io/badge/C%23-14101f?logo=csharp&logoColor=ff7ac6&style=for-the-badge" alt="csharp" />
+  <img src="https://img.shields.io/badge/MySQL-14101f?logo=mysql&logoColor=ff7ac6&style=for-the-badge" alt="mysql" />
+  <img src="https://img.shields.io/badge/Cypress-14101f?logo=cypress&logoColor=ff7ac6&style=for-the-badge" alt="cypress" />
+  <img src="https://img.shields.io/badge/Selenium-14101f?logo=selenium&logoColor=ff7ac6&style=for-the-badge" alt="selenium" />
+  <img src="https://img.shields.io/badge/Git-14101f?logo=git&logoColor=ff7ac6&style=for-the-badge" alt="git" />
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="34" alt="react" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="34" alt="react native" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="34" alt="typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="34" alt="javascript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="34" alt="php" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="34" alt="laravel" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="34" alt="csharp" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="34" alt="mysql" />
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=white&style=for-the-badge" height="34" alt="cypress" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" height="34" alt="selenium" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="34" alt="git" />
-</div>
+## 📊 GitHub
 
-<br/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=XuYice&show_icons=true&hide_border=true&bg_color=14101f&title_color=ff7ac6&icon_color=b48cff&text_color=e9defc&ring_color=ff7ac6" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuYice&layout=compact&hide_border=true&bg_color=14101f&title_color=ff7ac6&text_color=e9defc" alt="top languages" />
+</p>
 
-## 🤝 Connect with me
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XuYice&theme=dracula" alt="summary" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=XuYice&hide_border=true&background=14101f&ring=ff7ac6&fire=ff7ac6&currStreakLabel=ff7ac6&sideLabels=b48cff&currStreakNum=e9defc&sideNums=e9defc&dates=8a7fa8" alt="streak" width="49%" />
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/yice-xu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="linkedin" />
-  </a>
-  <a href="mailto:yicexu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="gmail" />
-  </a>
-  <a href="https://www.instagram.com/enzo__xu/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="34" alt="instagram" />
-  </a>
-</div>
+## 🤝 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/yice-xu/"><img src="https://img.shields.io/badge/LinkedIn-14101f?style=for-the-badge&logo=linkedin&logoColor=ff7ac6" alt="linkedin" /></a>
+  <a href="mailto:yicexu@gmail.com"><img src="https://img.shields.io/badge/Gmail-14101f?style=for-the-badge&logo=gmail&logoColor=ff7ac6" alt="gmail" /></a>
+  <a href="https://www.instagram.com/enzo__xu/"><img src="https://img.shields.io/badge/Instagram-14101f?style=for-the-badge&logo=instagram&logoColor=ff7ac6" alt="instagram" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" width="100%" alt="" />
