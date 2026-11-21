@@ -24,7 +24,7 @@ Studying Computer Science, combining a strong test-driven mindset (Cypress/Selen
 
 | Position             | Company         | Field                   | Period              |
 | -------------------- | --------------- | ----------------------- | ------------------- |
-| Full Stack Developer | Grupo Wolf 360  | Mobile & ERP            | Aug 2025 — Present  |
+| Full Stack Developer | Grupo Wolf 360  | Mobile & ERP            | Aug 2025 — Nov 2026  |
 | Full Stack Developer | Testing Company | QA Automation & Web     | Mar 2023 — Oct 2024 |
 
 ## 🛠️ Stack
